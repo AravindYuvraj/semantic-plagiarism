@@ -25,15 +25,3 @@ A sophisticated web-based plagiarism detection tool that uses multiple embedding
 - Percentage-based scoring system
 - Color-coded results (red=high, orange=medium, green=low)
 
-### Clone Detection
-- Configurable similarity thresholds
-- Preview snippets of flagged content
-- Clear visual indicators for potential issues
-
-
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/plagiarism-detector.git
-   cd plagiarism-detector
